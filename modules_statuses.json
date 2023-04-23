@@ -1,0 +1,9 @@
+{
+    "Dashboard": true,
+    "Product": true,
+    "Category": true,
+    "Accommodation": true,
+    "Email": true,
+    "Blog": true,
+    "Auth": true
+}
